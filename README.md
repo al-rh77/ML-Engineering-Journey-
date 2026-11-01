@@ -1,3 +1,4 @@
 # ML-Engineering-Journey-
 
 Hello! my name is Alin I'm second year Electrical Engineering Student attempting to learn the world of Machine Learning Step by Step since my own unversity does not offer ML engineering courses so thus I will learn this vast topic. bit by bit slowly I will be using all publically available information as well and dont worry i will cite them including the textbooks I used on this journey so feel free to use this github as a way to learn along with me. and for those who somehow come across my repository I hope following my footsteps allows you to also one day learn machine learning from scratch as i doing myself. Happy Learning! 
+Goal: to become a self taught ML engineer.
